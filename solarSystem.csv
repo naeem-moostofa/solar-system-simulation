@@ -1,7 +1,0 @@
-Sun,Sun,1.0E14,50.0,Images/sun.png,0,0.0,0.0,1000.0
-Planet,Moon,5.0,12.5,Images/moon.png,3,330.0,0.0,Moon,0.0,7.0
-Planet,Earth,3.0E12,18.0,Images/earth.png,2,300.0,0.0,Terrestrial,0.0,4.72
-Planet,Mars,10000.0,22.0,Images/mars.png,1,-700.0,0.0,Terrestrial,0.0,-3.08
-Planet,Jupiter,1.0E10,35.0,Images/jupiter.png,1,900.0,0.0,Gas Giant,0.0,2.72
-Planet,Saturn,1.0E9,45.0,Images/saturn.png,2,-1200.0,0.0,Gas Giant,0.0,-2.36
-Planet,Uranus,1.0E9,42.0,Images/uranus.png,1,1500.0,0.0,Ice Giant,0.0,2.1
