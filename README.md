@@ -14,9 +14,9 @@ A dynamic solar system simulation where you can interact with planets and observ
 
 ## Physics Behind the Simulation
 This project uses **Newton's law of universal gravitation** to calculate the forces acting on each planet:
-\[
-F = G \frac{{m_1 \cdot m_2}}{{r^2}}
-\]
+
+![Formula](https://latex.codecogs.com/svg.latex?F%20%3D%20G%20%5Cfrac%7Bm_1%20%5Ccdot%20m_2%7D%7Br%5E2%7D)
+
 Where:
 - \( F \) is the gravitational force.
 - \( G \) is the gravitational constant.
